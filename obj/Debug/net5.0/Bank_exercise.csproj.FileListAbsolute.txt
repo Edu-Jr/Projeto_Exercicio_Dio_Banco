@@ -1,0 +1,16 @@
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.csproj.AssemblyReference.cache
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.AssemblyInfoInputs.cache
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.AssemblyInfo.cs
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.csproj.CoreCompileInputs.cache
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\Bank_exercise.exe
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\Bank_exercise.deps.json
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\Bank_exercise.runtimeconfig.json
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\Bank_exercise.runtimeconfig.dev.json
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\Bank_exercise.dll
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\ref\Bank_exercise.dll
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\bin\Debug\net5.0\Bank_exercise.pdb
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.dll
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\ref\Bank_exercise.dll
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.pdb
+C:\Users\edual\Desktop\Eduardo\Digital_Innovation_one\Bank_exercise\obj\Debug\net5.0\Bank_exercise.genruntimeconfig.cache
